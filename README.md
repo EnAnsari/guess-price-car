@@ -1,5 +1,5 @@
 # حدس قیمت خودرو
-[![en](https://img.shields.io/badge/click_to_README-English-red.svg)](https://github.com/EnAnsari/guess-price-car/edit/main/README-EN.md)
+[![en](https://img.shields.io/badge/click_to_README-English-red.svg)](https://github.com/EnAnsari/guess-price-car/blob/main/README-EN.md)
 <br>
 با کمک این پروژه ما می‌توانیم با دادن اطلاعات ماشین به برنامه قیمت نسبی آن را دریافت کنیم. این برنامه پروژه پایانی
 <a href='https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk387/'>دوره پایتون پیشرفته مکتب خونه</a>
