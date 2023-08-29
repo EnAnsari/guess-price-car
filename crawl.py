@@ -51,7 +51,7 @@ num_of_pages = int(input('Enter number of pages for crawl: '))
 
 print("Please wait for data crawl...")
 for i in range(1, num_of_pages + 1):
-    url = f"https://www.cars.com/shopping/results/?list_price_max=&makes[]=porsche&maximum_distance=all&models[]=&page={i}&stock_type=all&zip="
+    url = f"https://www.cars.com/shopping/results/?list_price_max=&makes[]={brand.lower()}&maximum_distance=all&models[]=&page={i}&stock_type=all&zip="
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
     cards = soup.find_all("div", attrs={"class": "vehicle-details"})
